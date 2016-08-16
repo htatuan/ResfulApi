@@ -1,0 +1,12 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Resful\Repositories\bin\Debug\Repositories.dll.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Resful\Repositories\bin\Debug\Repositories.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Resful\Repositories\bin\Debug\Repositories.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Resful\Repositories\bin\Debug\DomainModel.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Resful\Repositories\bin\Debug\EntityFramework.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Resful\Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Resful\Repositories\bin\Debug\DomainModel.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Resful\Repositories\bin\Debug\EntityFramework.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Resful\Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Resful\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Resful\Repositories\obj\Debug\Repositories.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Resful\Repositories\obj\Debug\Repositories.pdb

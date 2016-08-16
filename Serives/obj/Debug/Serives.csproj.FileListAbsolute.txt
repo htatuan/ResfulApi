@@ -1,0 +1,12 @@
+C:\Users\USER\documents\visual studio 2015\Projects\Resful\Serives\bin\Debug\Serives.dll
+C:\Users\USER\documents\visual studio 2015\Projects\Resful\Serives\bin\Debug\Serives.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\Resful\Serives\obj\Debug\Serives.csprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2015\Projects\Resful\Serives\obj\Debug\Serives.dll
+C:\Users\USER\documents\visual studio 2015\Projects\Resful\Serives\obj\Debug\Serives.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\Resful\Serives\bin\Debug\Serives.dll.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Resful\Serives\bin\Debug\Repositories.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Resful\Serives\bin\Debug\DomainModel.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Resful\Serives\bin\Debug\EntityFramework.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Resful\Serives\bin\Debug\Repositories.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Resful\Serives\bin\Debug\DomainModel.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Resful\Serives\bin\Debug\EntityFramework.xml
